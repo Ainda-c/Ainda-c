@@ -4,18 +4,26 @@ I'm a beginner software developer passionate about learning to code and building
 
 🚀 About Me
 
-🌱 Currently learning: Python, JavaScript, HTML/CSS, Database Design and Management, software engineering.
-🎯 Goals: Build a strong foundation in programming, contribute to open-source projects, and create my own apps.
-💻 Interests: Web development, mobile apps, automation, and learning about clean code practices.
-📍 Location: Nairobi, Kenya.
-📫 Contact: dadiusainda@gmail.com
+- Currently learning: Python, JavaScript, HTML/CSS, Database Design and Management, software engineering.
+
+🎯 Goals:
+- Build a strong foundation in programming, contribute to open-source projects, and create my own apps.
+
+💻 Interests: 
+- Web development, mobile apps, automation, and learning about clean code practices.
+
+📍 Location:
+- Nairobi, Kenya.
+  
+📫 Contact: 
+- dadiusainda@gmail.com
 
 🛠️ Skills
 
-Languages: Python (beginner), JavaScript (beginner).
-Tools: VS Code, Git, GitHub
-Frameworks/Libraries: Learning React, Flask, Bootstrap.
-Other: Basic understanding of version control, command line, and debugging.
+- Languages: Python (beginner), JavaScript (beginner).
+- Tools: VS Code, Git, GitHub
+- Frameworks/Libraries: Learning React, Flask, Bootstrap.
+- Other: Basic understanding of version control, command line, and debugging.
 
 📚 Projects
 
