@@ -1,5 +1,6 @@
 # 🚀 Welcome to My GitHub Profile! 
-Hi there! I'm **Dadius Ainda**, a passionate developer, AI enthusiast, statistician and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models. 
+Hi there! I'm **Dadius Ainda**, a passionate developer, AI enthusiast, statistician and cloud practitioner. 
+I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models. 
 ## 🛠️ Tech Stack 
 ### 🔹 Programming & Core Concepts 
 <p align="left">
